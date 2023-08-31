@@ -1,16 +1,22 @@
 # TensorFlowCode
 TensorFlow 2.13.0 Tutorial Code  
+
 # Prerequisite
 Python  
-.ipynb can be opened by Jupyter Lab or Jupyter Notebook  
+Jupyter Lab or Notebook  
+Tensorflow 2.13.0  
+Netron  
+
 
 # Jupyter Lab
+.ipynb can be opened by Jupyter Lab or Jupyter Notebook  
 ## install
 pip install jupyterlab  
 ## launch (Windows)
 jupyter lab  
 
 # Jupyter Notebook
+.ipynb can be opened by Jupyter Lab or Jupyter Notebook  
 ## install
 pip install notebook  
 ## launch (Windows)
