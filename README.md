@@ -7,13 +7,13 @@ https://github.com/lutzroeder/netron
 # Jupyter Lab
 ## install
 pip install jupyterlab  
-## launch
+## launch (Windows)
 jupyter lab  
 
 # Jupyter Notebook
 ## install
 pip install notebook  
-## launch
+## launch (Windows)
 python -m notebook  
 
 # Tensorflow
