@@ -1,5 +1,5 @@
 # TensorFlowLab
-![Windows](https://img.shields.io/badge/Windows-passing-green)
+![Windows](https://img.shields.io/badge/Windows-passing-brightgreen)
 
 TensorFlow 2.13.0 Tutorial Code  
 
