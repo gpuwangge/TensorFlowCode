@@ -14,6 +14,12 @@ Netron
 .ipynb can be opened by Jupyter Lab or Jupyter Notebook  
 ## install
 pip install jupyterlab  
+
+Alternative:  
+python -m pip install --upgrade pip  
+python -m pip install jupyter  
+
+
 ## launch (Windows)
 jupyter lab  
 
